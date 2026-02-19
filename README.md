@@ -71,6 +71,9 @@ This application displays REMIT data. The official UK REMIT data is published at
 - **Database**: SQLite (configurable)
 - **Fonts**: DM Sans, JetBrains Mono (Bunny Fonts)
 
+## Demo screenshot
+![alt text](https://github.com/JoeeDeveloper/com.example.remit/blob/main/demo.png "Demo screenshot")
+
 ## License
 
 MIT
