@@ -2,12 +2,9 @@ name: Laravel
 
 on:
   push:
-    branches:
-      - master
-      - '*.x'
+    branches: [ "main" ]
   pull_request:
-  schedule:
-    - cron: '0 0 * * *'
+    branches: [ "main" ]
 
 permissions:
   contents: read
